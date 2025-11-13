@@ -1,6 +1,6 @@
-## Hi there 👋
 
-Currently building TradeTrack & Flattie 💻
+
+## Currently building TradeTrack & Flattie 💻
 
 <!--
 **cash-cam/cash-cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
