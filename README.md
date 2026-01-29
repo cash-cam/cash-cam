@@ -1,5 +1,7 @@
 
-## 21 |CS Graduate|AKL NZ
+## 21 | CS Graduate | AKL NZ
+
+Currently developing an asset tracking solution for the Residential Construction Industry  
 
 <!--
 **cash-cam/cash-cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
