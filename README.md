@@ -2,7 +2,7 @@
 ## 21 | CS Graduate | AKL NZ
 
 Currently developing an asset tracking solution for the Residential Construction Industry  
-<-- ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)) -->
+<--! ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)) -->
 
 <!--
 **cash-cam/cash-cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
