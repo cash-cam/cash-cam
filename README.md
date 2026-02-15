@@ -1,8 +1,8 @@
 
 ## 21 | CS Graduate | AKL NZ
 
-Currently working on [TradeTrack](https://www.tradetrack.construction/)!  
-A Web application built with react, Node.js, and postgres
+Currently working on [TradeTrack](https://www.tradetrack.construction/) and a range of other things!  
+
 
 <!--
 **cash-cam/cash-cam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
