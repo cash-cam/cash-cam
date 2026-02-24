@@ -1,7 +1,7 @@
 
 ## 21 | CS Graduate | AKL NZ
 
-Currently working on [TradeTrack](https://www.tradetrack.construction/) and a range of other things!  
+Currently working on [TradeTrack](https://www.tradetrack.construction/) and a range of other web-development contracting works! 
 
 
 <!--
