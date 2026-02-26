@@ -1,7 +1,8 @@
 
 ## 21 | CS Graduate | AKL NZ
 
-Currently working on [TradeTrack](https://www.tradetrack.construction/) and a range of other web-development contracting works! 
+Currently working on a range of other web-development contracting works! 
+Current interests include new tech off the back of new open banking regulations, the idea of singularity, and my dog.
 
 
 <!--
